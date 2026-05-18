@@ -1,2 +1,9 @@
-# tiny-dice-roller-box-41
-A simple dice roller project
+# Dice Roller
+
+A simple dice roller project.
+\n
+## Getting Started
+
+```bash
+python main.py
+```
